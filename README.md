@@ -216,34 +216,6 @@ Building and iterating on software products spanning **systems programming, full
 
 ---
 
-# CERTIFICATIONS
-
-### AWS
-
-<p>
-<img src="https://img.shields.io/badge/AWS-Cloud-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
-### Oracle
-
-<p>
-<img src="https://img.shields.io/badge/Oracle-Database-4F46E5?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
-### NPTEL
-
-<p>
-<img src="https://img.shields.io/badge/NPTEL-Certified-6366F1?style=for-the-badge&logo=nptel&logoColor=white"/>
-</p>
-
-### Cisco
-
-<p>
-<img src="https://img.shields.io/badge/Cisco-CCNA%20Track-1E1B4B?style=for-the-badge&logo=cisco&logoColor=white"/>
-</p>
-
----
-
 # CODING PROFILES
 
 <div align="center">
